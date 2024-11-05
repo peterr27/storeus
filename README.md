@@ -1,16 +1,26 @@
-# storeus
+# Flutter Posts App for StoreUs
 
-assignment
+A Flutter application that allows users to manage posts with functionalities to get, add, delete, and search for posts. The app utilizes the BLoC (Business Logic Component) pattern for state management and the Go Router for navigation.
+
+## Features
+
+- **Get Posts**: Fetch and display a list of posts.
+- **Add Posts**: Create new posts using a form.
+- **Delete Posts**: Remove existing posts with confirmation.
+- **Search Posts**: Search through the posts based on user input.
+- **Navigation**: Seamless navigation between screens using Go Router.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed on your machine.
+- A compatible IDE (e.g., Android Studio, Visual Studio Code).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter_posts_app.git
